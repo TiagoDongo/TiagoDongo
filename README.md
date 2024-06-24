@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there, I'm Tiago Dongo! 👋
 
-<!--
-**TiagoDongo/TiagoDongo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=TiagoDongo&label=Profile%20views&color=0eb421&style=flat" alt="Profile views" /> </p>
 
-Here are some ideas to get you started:
+<div>
+  <img align="left" height='150px' src="https://github-readme-stats.vercel.app/api?username=TiagoDongo&hide_title=true&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img align="left" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoDongo&langs_count=10&hide_title=false&layout=compact&theme=dark&count_private=true&hide=css,html" alt="Top Languages" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Connect with me</h2>
+<div>
+  <a href="https://www.discord.com/users/_tiag_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="play craft" height="45" width="45" /></a>
+</div>
