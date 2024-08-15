@@ -21,14 +21,12 @@
 
 <div align=center>
   <h2>Langs And Tools</h2>  
-    <img height='35px' width='45px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />          
-    <img height='35px' width='45px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-    <img height='35px' width='45px'  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />  
-    <img height='35px' width='45px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />  
-    <img height='35px' width='45px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />  
-    <img height='35px' width='45px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />          
-    <img height='35px' width='45px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />       
-    <img height='35px' width='45px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />          
+    <img height='45px' width='45px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />          
+    <img height='45px' width='45px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+    <img height='45px' width='45px'  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />  
+    <img height='45px' width='45px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />  
+    <img height='45px' width='45px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+    <img height='45px' width='45px' src="https://img.icons8.com/?size=100&id=AZOZNnY73haj&format=png&color=000000"/>
 </div>
 
 <div display: flex; justify-content: center; align-items: center; gap: 20px;>
