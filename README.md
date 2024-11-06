@@ -17,7 +17,4 @@
   <!--<img height="145em" src="https://streak-stats.demolab.com?user=TiagoDongo&theme=gotham"/>  -->
 </div>
 
-  <a href="https://www.x.com/_Tiago_Dongo_" target="blank">
-    <img height='35px' width='45px' alt="TiagoDongo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg"/>
-  </a> 
-</div>
+ 
