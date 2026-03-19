@@ -1,17 +1,12 @@
 # Hi there, i'm Tiago 👋
 
+![profile](https://komarev.com/ghpvc/?username=TiagoDongo&label=Profile%20Views&color=blue&style=flat)
+
 Computer engineering and telecommunications students passionate about technology and systems design, always looking to learn something new.
 
 ## About me:
 - I am currently learning about systems architecture.
 - Currently working on a project for an academic internship and volunteering platform.
-
-![profile](https://komarev.com/ghpvc/?username=TiagoDongo&label=Profile%20Views&color=blue&style=flat)
-
-## 📫 Connect with me:
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tiago.00_)
-[![x](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://www.x.com/_Tiago_Dongo)
-[![linkedin](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/tiago-dongo-033ba8349)
 
 ## 💻 Languages and Tools
 
@@ -26,4 +21,11 @@ Computer engineering and telecommunications students passionate about technology
 
 ## 📊 Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TiagoDongo&theme=dark" alt="TiagoDongo" /></p>
+<div style="display: flex; justify-content: center;">
+    <a href="https://github.com/TiagoDongo/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=TiagoDongo&rank_icon=github&theme=gotham&hide_border=true&count_private=true&show_icons=true&include_all_commits=false" width="425">
+    </a>
+  <a href="https://github.com/TiagoDongo/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoDongo&layout=compact&langs_count=15&theme=gotham&hide_border=true&include_all_commits=true" width="300">
+    </a>
+</div>
